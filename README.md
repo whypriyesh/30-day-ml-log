@@ -1,1 +1,1 @@
-# 30-day-ml-log
+Become an ML engineer. Day 1 starts now.
